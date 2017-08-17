@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseChatApp</string>
+    <string name="email">Email</string>
+    <string name="username">UserName</string>
+    <string name="mobile">Mobile</string>
+    <string name="registerNow">Register Now</string>
+    <string name="typeMessage">Type your Message</string>
+    <string name="message">Hi, Are you there</string>
+</resources>

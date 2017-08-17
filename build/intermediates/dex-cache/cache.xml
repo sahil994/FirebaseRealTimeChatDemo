@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63da8031e834d0ddc739bd03b56e092d84a8bc95">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9763e3bd5ab281270ce5613d97a55260ce76cc93/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sahilgoyal/.android/build-cache/9b61fa6600e62e4f68806a241d27e2dd18d71d1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/pre-dexed/debug/classes_6c57e6e204c0fcbe7ecabfb7da99c3d513366c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sahilgoyal/.android/build-cache/1f9268f892aaa3d86e300fe389dddb872ce92d4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/pre-dexed/debug/classes_2fc613d30c51ee4acb399097b932da6d66ef6b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sahilgoyal/.android/build-cache/b9f637d6bc4c4284d1aeece5dbcf6208b0bd5513/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/pre-dexed/debug/classes_176ed72d6bc3d743acc2c0ce2284e50c44810c12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sahilgoyal/.android/build-cache/b1a53f24266559b15419ae472ab5c4eaff8f9a07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/pre-dexed/debug/classes_3b79aa6a4e6f71cd6830f2102ac1614e1916facb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sahilgoyal/.android/build-cache/2f318315c4875c8d8af67b46fc050df217a80ebb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/pre-dexed/debug/classes_6e310da9e1bdcbd1af675d872560cc20e0e05d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sahilgoyal/.android/build-cache/0136c185e283850f82eee7becff0d22c9b9bc2b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/pre-dexed/debug/classes_234ebdab10e8487cc8287ff699c869dba5d40c14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/sahilgoyal/Desktop/sahildemo/FirebaseChatApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7014ab083136a1cf888f82c6f496e9760ada5716/classes.dex" />
+    </item>
+
+</items>

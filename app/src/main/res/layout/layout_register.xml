@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+     <ImageView
+            android:layout_width="wrap_content"
+            android:layout_margin="20dp"
+            android:id="@+id/ivBackArrow"
+            android:background="@drawable/ic_arrow_back_black_24dp"
+            android:layout_height="wrap_content" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_below="@+id/ivBackArrow"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/tlEmail"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/email"
+                android:id="@+id/etEmail"
+                android:singleLine="true"
+                android:inputType="textEmailAddress"
+                android:imeOptions="actionGo"
+                />
+
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_below="@+id/tlEmail"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/tlUserName"
+            android:layout_marginTop="20dp"
+
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/username"
+                android:id="@+id/etUserName"
+                android:singleLine="true"
+                android:inputType="text"
+                android:imeOptions="actionNext"
+                />
+
+
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_below="@+id/tlUserName"
+            android:layout_marginLeft="20dp"
+
+            android:layout_marginTop="20dp"
+
+            android:layout_marginRight="20dp"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/mobile"
+                android:singleLine="true"
+                android:inputType="number"
+                android:imeOptions="actionGo"
+                android:id="@+id/etMobile"
+                />
+
+
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_margin="30dp"
+            android:id="@+id/fl_register"
+
+            app:backgroundTint="@color/colorPrimaryDark"
+            android:src="@drawable/ic_arrow_forward_white_36dp"
+            android:layout_height="60dp" />
+
+
+
+    </RelativeLayout>
+
